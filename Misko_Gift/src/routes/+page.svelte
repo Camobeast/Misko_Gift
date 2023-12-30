@@ -9,7 +9,7 @@
 </script>
 
 <h1 class="h1 text-fuchsia-700 py-5 text-center font-bold">Merry Christmas {name}!</h1>
-<h2 class="h2 text-red-600 py-5 text-center underline underline-offset-4 font-semibold">Bellow you can find the picture of your present!</h2>
+<h2 class="h2 text-red-600 p-5 text-center underline underline-offset-4 font-semibold">Bellow you can find the picture of your present!</h2>
 
 <div class="flex justify-center pt-20">
 	<button on:click={handleClick} class="card p-4 w-96 h-auto flex flex-col items-center justify-center" id="present">
@@ -21,6 +21,6 @@
 	</button>
 </div>
 
-<div class="absolute bottom-0 m-auto flex justify-center">
+<div class="absolute bottom-0 m-auto flex justify-center p-10">
 	<h4 class="h5 text-red-500 py-5 text-center">Santa allows an exchange of this gift for a fidget toy with delivery around 14 days</h4>
 </div>
