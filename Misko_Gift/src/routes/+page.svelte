@@ -22,7 +22,7 @@
 		</button>
 	</div>
 	
-	<div class="m-auto flex justify-center p-10">
+	<div class="m-auto flex justify-center">
 		<h4 class="h5 text-red-500 py-5 text-center">Santa allows an exchange of this gift for a fidget toy with delivery around 14 days</h4>
 	</div>
 </main>
