@@ -16,7 +16,7 @@
 		{#if !showing}
 			<h3 class="h3 text-red-500 py-5 text-center font-bold">Click to see your present!</h3>
 		{:else}
-			<img transition:fly={{ y: 800, duration: 1000 }} class="w-96" src="./src/images/zidle.png" alt="Miskuv present - a chair">
+			<img transition:fly={{ y: 800, duration: 1000 }} class="w-96" src="images/zidle.png" alt="Miskuv present - a chair">
 		{/if}
 	</button>
 </div>
